@@ -50,8 +50,6 @@ The robot chassis was fully modeled in SolidWorks to test balance, weight distri
 <img width="1059" height="473" alt="solidworks_model3" src="https://github.com/user-attachments/assets/5c34528f-6442-44c9-8d14-60c25b095caf" />
 <img width="1011" height="438" alt="solidworks_model4" src="https://github.com/user-attachments/assets/54248497-39ea-4b3b-834a-37cfed4c1a7e" />
 
-## 💾 Arduino Code
-
 ## 👥 Team & Collaboration
 
 This project was developed in collaboration with a classmate.
