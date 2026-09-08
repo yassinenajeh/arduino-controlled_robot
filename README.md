@@ -1,4 +1,4 @@
-# arduino-controlled_robot
+# Arduino-controlled_robot
 Project completed in 2024 – documented here for portfolio purposes.
 
 ## Overview
